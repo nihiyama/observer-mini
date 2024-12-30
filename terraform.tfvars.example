@@ -1,0 +1,7 @@
+### aws settings
+aws_access_key_id = "AKIXXXX"
+aws_secret_access_key = "XXXXX"
+
+### network
+ingress_management_cidr_blocks = [ ]
+ingress_service_cidr_blocks = [ ]
